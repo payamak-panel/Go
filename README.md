@@ -10,7 +10,7 @@ Here we've provided a complete 3rd-party library (SDK) for Golang developers tha
 You can run the following **go** command to have it:
 
 ```
-go get github.com/pars/golang
+go get github.com/payamak-panel/go
 ```
 
 ## Usage
@@ -21,7 +21,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/pars/golang"
+	"github.com/payamak-panel/go"
 )
 
 func main() {
