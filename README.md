@@ -1,10 +1,10 @@
 # GoLang
 
 ## Introduction
-Here we've provided a complete 3rd-party library (SDK) for Golang developers that covers both **SOAP** and **REST** webservices. Before using, make sure you have provided a [valid account in pars corporation](https://pars.ir/start/).
+Here we've provided a complete 3rd-party library (SDK) for Golang developers that covers both **SOAP** and **REST** webservices. Before using, make sure you have provided a [valid account in pars corporation](https://pars.ws/).
 
 ### معرفی
-ما مجموعۀ کامل از متدهای اتصال به وب سرویس **REST** و **SOAP** این شرکت را برای توسعه دهندگان GoLang فراهم نموده. قبل از استفاده از این کتابخانه، نیاز به [خرید پنل فراپیامک](https://pars.ir/start/) دارید
+ ما مجموعۀ کامل از متدهای اتصال به وب سرویس **REST** و **SOAP** این شرکت را برای توسعه دهندگان GoLang فراهم نموده. قبل از استفاده از این کتابخانه، نیاز به خرید پنل پارس
 
 ## Installation
 You can run the following **go** command to have it:
